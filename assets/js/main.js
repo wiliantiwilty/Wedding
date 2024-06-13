@@ -217,7 +217,7 @@
   });
 
   /**
-   * gallery details slider
+   * Gallery details slider
    */
   new Swiper('.gallery-details-slider', {
     speed: 400,
